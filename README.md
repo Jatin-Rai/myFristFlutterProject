@@ -1,2 +1,2 @@
 # myFristFlutterProject
-I have created my first Flutter Calculator app for learning purpose
+Source code for my first Flutter basic Calculator app
